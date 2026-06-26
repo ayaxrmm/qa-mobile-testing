@@ -63,6 +63,13 @@ Several defects were identified during testing, including:
 * Truncated hotel names
 * Placeholder text displayed in production UI
 
+## Tested Application
+
+This testing project is based on the Tourist Guide App.
+
+For the complete Tourist Guide App project, see the dedicated repository: iOSdev_project
+link: https://github.com/ayaxrmm/iOSdev_project
+
 ## Author
 
 Ayaulym Raimbek
